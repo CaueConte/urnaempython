@@ -6,4 +6,4 @@ Código em python, urna eletronica
 
 ![image](https://user-images.githubusercontent.com/104505715/195417348-0024391c-7c61-4a18-bc22-8d162411f359.png)
 
-Conforme se digita o numero do candidato ele aumenta a quantidade de votos no placar acima 
+  <p>Conforme se digita o numero do candidato ele aumenta a quantidade de votos no placar acima</p>
